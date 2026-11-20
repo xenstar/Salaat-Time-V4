@@ -145,6 +145,44 @@ Use the prayer countdown to plan focused work between prayers. Let the reminders
 
 No social feed. No browser tab to keep open. No subscription required. Just an Islamic productivity companion that helps work and worship live in the same schedule.
 
+## 🤲 Where Salaah Time is going
+
+We're building this carefully rather than chasing every shiny feature. The first job is simple: when Salah comes in, you should be able to trust the time. After that, we want the app to feel closer to your own masjid, routine, and daily ibadah.
+
+This is our current thinking, not a release-date promise. Features may move as we learn from real use.
+
+### First: times you can trust
+
+- Prayer times follow your chosen city's timezone and daylight-saving rules, even if your computer is set to another timezone
+- Choose to follow your selected city or your computer's timezone
+- Adjust individual prayer times so they match your local masjid or observed schedule
+- Clearer handling for long summer and winter days in high-latitude cities
+- Save your own locations and find cities more easily by country
+
+### Then: your athan and iqamah setup
+
+- Different athan choices for Fajr, Jumu'ah, and each prayer
+- Iqamah after athan or at a fixed local time
+- Import your own athan audio
+- Rotate through a folder of athan files
+- See iqamah in the countdown and fullscreen prayer view
+
+### Later: building the habit
+
+- A simple, private prayer tracker with checkmarks and a weekly view
+- Complete offline Riyad us-Saliheen library with search, bookmarks, and chapter navigation
+- Follow your system theme, better Arabic/RTL support, and more Islamic content
+
+### Still thinking about
+
+- Side-by-side Hijri and Gregorian calendar view
+- Optional Bismillah audio when the app starts
+- macOS and Linux builds with proper signing
+
+### 🤝 Help shape Salaah Time
+
+Have an idea, feedback, or a use case from your local masjid? Join the [Salaah Time Telegram group](https://t.me/salaattime).
+
 ## 🚀 Download Salaah Time V4
 
 <div align="center">
