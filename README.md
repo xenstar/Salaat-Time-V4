@@ -20,9 +20,17 @@
 
 **Muslim productivity • Salah planner • Persistent reminders • Adhan (Athan) • Prayer Lock • Qibla • Duas • Ramadan tools**
 
+<img src="assets/salaah-time-v4-today.png" width="1200" alt="Salaah Time V4 dashboard showing the current and next prayer, countdown, and today's timetable">
+
 </div>
 
 ---
+
+<div align="center">
+
+**Explore:** [Features](#-everything-included) · [Download](#-download-salaah-time-v4) · [FAQ](#-frequently-asked-questions) · [Roadmap](#-where-salaah-time-is-going) · [Support](#-support-without-judgment)
+
+</div>
 
 ## 💚 About Salaah Time V4
 
