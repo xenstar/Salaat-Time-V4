@@ -71,6 +71,10 @@ When it is time for Salah, the reminder stays present until you make a conscious
 
 ## ✨ Everything included
 
+| Main dashboard | Active reminder | Final reminder |
+| :---: | :---: | :---: |
+| [<img src="assets/salaah-time-v4-dashboard.png" width="300" alt="Salaah Time V4 dashboard showing the current and next prayer, countdown, and daily timetable">](assets/salaah-time-v4-dashboard.png) | [<img src="assets/salaah-time-v4-reminder.png" width="300" alt="Salaah Time V4 active Isha reminder with prayer acknowledgment and snooze choices">](assets/salaah-time-v4-reminder.png) | [<img src="assets/salaah-time-v4-final-reminder.png" width="300" alt="Salaah Time V4 final full-screen Prayer Lock reminder near the end of the prayer window">](assets/salaah-time-v4-final-reminder.png) |
+
 ### 🕋 Protect the five daily prayers
 
 - Persistent reminders before and after each prayer
