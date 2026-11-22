@@ -20,9 +20,17 @@
 
 **Muslim productivity • Salah planner • Persistent reminders • Adhan (Athan) • Prayer Lock • Qibla • Duas • Ramadan tools**
 
+<img src="assets/salaah-time-v4-today.png" width="1200" alt="Salaah Time V4 dashboard showing the current and next prayer, countdown, and today's timetable">
+
 </div>
 
 ---
+
+<div align="center">
+
+**Explore:** [Features](#-everything-included) · [Download](#-download-salaah-time-v4) · [FAQ](#-frequently-asked-questions) · [Roadmap](#-where-salaah-time-is-going) · [Support](#-support-without-judgment)
+
+</div>
 
 ## 💚 About Salaah Time V4
 
@@ -62,6 +70,10 @@ When it is time for Salah, the reminder stays present until you make a conscious
 | Basic time list                   | Helps plan your day with daily, monthly, and yearly schedules |
 
 ## ✨ Everything included
+
+| Main dashboard | Active reminder | Final reminder |
+| :---: | :---: | :---: |
+| [<img src="assets/salaah-time-v4-dashboard.png" width="300" alt="Salaah Time V4 dashboard showing the current and next prayer, countdown, and daily timetable">](assets/salaah-time-v4-dashboard.png) | [<img src="assets/salaah-time-v4-reminder.png" width="300" alt="Salaah Time V4 active Isha reminder with prayer acknowledgment and snooze choices">](assets/salaah-time-v4-reminder.png) | [<img src="assets/salaah-time-v4-final-reminder.png" width="300" alt="Salaah Time V4 final full-screen Prayer Lock reminder near the end of the prayer window">](assets/salaah-time-v4-final-reminder.png) |
 
 ### 🕋 Protect the five daily prayers
 
